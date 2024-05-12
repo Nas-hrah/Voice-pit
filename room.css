@@ -1,0 +1,77 @@
+body {
+    background-image: url(https://www.shutterstock.com/shutterstock/videos/1092640495/thumb/1.jpg?ip=x480);
+}
+
+.Dwight {
+    color: #eee;
+    text-align: center;
+    border-image-width: auto;
+    --color: #00A97F;
+   background-color: #000;
+   border-radius: 6px;
+   border: .3px solid var(--color);
+   border-width: 2px;
+   margin-bottom: 50px;
+   width: 450px;
+   height: auto;
+   margin-top: 20px;
+   position: sticky;
+   top: 0;
+}
+
+.Julian{
+    color: #eee;
+    text-align: center;
+    border-image-width: auto;
+    --color: #ff00ff;
+   background-color: #000;
+   border-radius: 6px;
+   border: .3px solid var(--color);
+   border-width: 2px;
+   margin-bottom: 50px;
+   width: 450px;
+   height: auto;
+   margin-top: 20px;
+   position: sticky;
+   top: 0;
+}
+
+.Sophia {
+    color: #eee;
+    text-align: center;
+    border-image-width: auto;
+    --color: #ff007f;
+   background-color: #000;
+   border-radius: 6px;
+   border: .3px solid var(--color);
+   border-width: 2px;
+   margin-bottom: 50px;
+   width: 450px;
+   height: auto;
+   margin-top: 20px;
+   position: sticky;
+   top: 0;
+}
+
+h2 {
+    color: #ddd;
+    border-image-width: auto;
+    --color: #fff;
+   background-color: #000;
+   border-radius: 6px;
+   border: .3px solid var(--color);
+   border-width: 3px;
+   width: 6%;
+   text-align: center;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 40px;
+}
+
+img {
+    width: 25%;
+    height: auto;
+    margin-left: 45px;
+    margin-right: 45px;
+    padding: 15px;
+}
